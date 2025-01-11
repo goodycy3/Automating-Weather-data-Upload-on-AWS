@@ -1,0 +1,3 @@
+boto3==1.28.0            # AWS SDK for Python
+requests==2.31.0         # For fetching weather data from OpenWeather API
+python-dotenv==1.0.0     # To load environment variables from .env file
